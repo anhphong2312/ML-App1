@@ -4,6 +4,7 @@ answer the question, “Will a customer accept the coupon?”
 Observations
 1. User attributes
     -  Gender: male, female
+    -  ![assignment_5_1_starter\images\gender.png ](gender)
     -  
     -  Age: below 21, 21 to 25, 26 to 30, etc.
     -  
@@ -28,7 +29,7 @@ Observations
     -  Number of times that he/she goes to a bar: 0, less than 1, 1 to 3, 4 to 8 or greater than 8
     
 
-2. Contextual attributes
+1. Contextual attributes
     - Driving destination: home, work, or no urgent destination
     - 
     - Location of user, coupon and destination: we provide a map to show the geographical
