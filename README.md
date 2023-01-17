@@ -5,7 +5,7 @@ Observations
 1. User attributes
     -  Gender: male, female: 
        -  there is no real difference among genders of male vs female for coupon decisions
-       -  !["gender"](.\assignment_5_1_starter\images\gender.png)
+       -  !["gender"](assignment_5_1_starter/images/gender.png)
 
     -  Age: below 21, 21 to 25, 26 to 30, etc.
        -  from the pie chart, the groups of _**age under 30**_ make up ~50% of the coupon decisions. We should focus on targeting this group.
@@ -21,9 +21,11 @@ Observations
         - those who have bachelor degrees or still in colleges made up the majority of the coupon usage.
         -  !["education"](.\assignment_5_1_starter\images\education.png)  
     -  Occupation: architecture & engineering, business & financial, etc.
-    -  
+        - out of those occupations, umemployed and students are the most price sensitive and thus willing to buy coupons. Interestingly, maths and computer scientists are among the top 3, explaining that digital coupons have higher reach to those who are tech savvy.
+        -  !["occupation"](.\assignment_5_1_starter\images\occupation.png)  
     -  Annual income: less than \\$12500, \\$12500 - \\$24999, \\$25000 - \\$37499, etc.
-    -  
+       -  income range category shows an obvious price sensitivity for those who want coupons. Users who have income less than $50k are willing to accept coupons than others who have higher incomes.
+        -  !["income"](.\assignment_5_1_starter\images\income.png)  
     -  Number of times that he/she goes to a bar: 0, less than 1, 1 to 3, 4 to 8 or greater than 8
     -  
     -  Number of times that he/she buys takeaway food: 0, less than 1, 1 to 3, 4 to 8 or greater than 8
